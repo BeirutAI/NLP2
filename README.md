@@ -15,7 +15,10 @@ Slides can be found here: https://drive.google.com/file/d/19-UPW5NeV16LYbTV3f9AJ
 
 Code (with blanks) on Google Colab can be found here: https://colab.research.google.com/drive/1r0F3c-ndJjCijHdEnVmKhi4GPFu_Zkkb
 
-Complete code (with solutions) will be added after the workshop.
+Complete code (with solutions) on Google Colab can be found here: https://colab.research.google.com/drive/1Devsm-PdvPKmTXnvS-AeVMePfTObNFyX
+
+To edit the code, click **File** then **Save a copy in Drive…**
+<br/><br/><br/>
 
 
 Happy coding 💻 
